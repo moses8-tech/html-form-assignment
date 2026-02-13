@@ -1,0 +1,37 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+.container{
+
+    background-color: aliceblue;
+    margin: 0 auto;
+    padding: 50px 100px;
+    
+}
+h1,h2{
+    padding-left: 50px;
+    color:red; 
+}
+
+.form-class{
+    
+    background-color:#fff;
+    padding:20px;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.reg{
+    background-color: red;
+    width:265px;
+    padding: 4px 0;
+    border-radius: 3px;
+    color:white;
+    border: none;
+}
+.custom-width{
+    width:256px;
+}
